@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Cheatsheets
 
 A collection of cheatsheets for various tools.
